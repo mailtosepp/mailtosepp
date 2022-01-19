@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sepp
 - 👀 I’m interested in architecture, CAD drawing, wooden structures and welding
 - 🌱 I’m currently learning swedish and python   
-- 💞️ I’m looking to collaborate on an opensource sauna building (geodesic, diffenerent sizes, CAD plans for selfbuilding) in order to start a sauna community
+- 💞️ I’m looking to collaborate on an opensource sauna building (geodesic, diffenerent sizes, CAD plans for selfbuilding) in order to start a sauna community (sauna sisters and brothers)
 - 📫 How to reach me: send me an eMail to: mailtosepp(at)gmx(dot)de
